@@ -1,14 +1,17 @@
 <!--suppress HtmlDeprecatedAttribute -->
-#  Hi 🙌 there!  #
-
-<h3 align="center" style="color: #fff">Visit Count</h3>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
 <p align="center">
-<a href="https://gist.github.com/lChen-dev"><img src="https://profile-counter.glitch.me/lChen-dev/count.svg" alt="louis :: louis's Count" /></a>
+    <h1 align="center">✩&emsp;Louis&emsp;✩</h1>
 </p>
-
-
-# My Main Stack #
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome;Thanks+for+being+here!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=lChen-dev&color=grey">
+</p>
+# Main Stack #
 
 <a href="https://legacy.reactjs.org/docs/getting-started.html"><img src="./assets/react.svg" alt="react" height="100" title="React documentation"></a>
 <a href="https://vuejs.org/guide/introduction.html"><img src="./assets/vue.svg" alt="vue" height="100" title="Vue documentation"></a>
