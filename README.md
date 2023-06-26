@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-#  Hi 🙌 there!  #
+
 
 <h3 align="center" style="color: #fff">Visit Count</h3>
 <br>
