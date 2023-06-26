@@ -1,11 +1,10 @@
-<!--suppress HtmlDeprecatedAttribute -->
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
 <p align="center">
     <h1 align="center">✩&emsp;Louis&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome;Thanks+for+being+here!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!;Thanks+for+being+here!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
 <p align="center">
@@ -158,7 +157,7 @@
 <br><br>
 </div>
 
-#  Welcome #
+# Very Welcome #
 
 ![Louis's github stats](https://github-readme-stats.vercel.app/api?username=lChen-dev&hide=prs&text_color=586069&layout=compact&hide_border=true&show_icons=true&theme=tokyonight)
 ![Louis's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lChen-dev&text_color=586069&layout=compact&hide_border=true&title_color=0366d6&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true)
